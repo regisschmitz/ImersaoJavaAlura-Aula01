@@ -1,0 +1,8 @@
+git@github.com:regisschmitz/ImersaoJavaAlura-Aula01.git
+
+
+Quem estiver tendo problemas para acessar o IMDB pode utilizar um dos seguintes endereços:
+- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopMovies.json
+- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/TopTVs.json
+- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularMovies.json
+- https://raw.githubusercontent.com/alura-cursos/imersao-java-2-api/main/MostPopularTVs.json    
